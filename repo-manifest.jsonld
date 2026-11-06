@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ionelmc/python-process-tests/commit/f92208195f08a9b934a7eec0c369b062df9d8ee4",
       "git:hexsha": "f92208195f08a9b934a7eec0c369b062df9d8ee4",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/ionelmc/python-process-tests/commit/fdf4a70a1bcf93fd396b1c0a9bf2721133f3b742",
