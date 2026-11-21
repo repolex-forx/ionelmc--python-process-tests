@@ -3,6 +3,11 @@
   "repo": "python-process-tests",
   "versions": [
     {
+      "commit": "0899a04e1abc37a13277c0def517c3ec93d03cd0",
+      "tag": "v3.0.0",
+      "parsed_at": "2026-11-21T23:23:38.424522+00:00"
+    },
+    {
       "commit": "f92208195f08a9b934a7eec0c369b062df9d8ee4",
       "tag": "",
       "parsed_at": "2026-11-06T02:19:27.468879+00:00"
