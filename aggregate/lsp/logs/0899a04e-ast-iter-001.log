@@ -1,0 +1,7 @@
+[2026-11-21T23:18:31Z] === AST ITERATION 1 START | repo=ionelmc/python-process-tests sha=0899a04e ===
+[2026-11-21T23:18:31Z] [iter=1] PHASE START: ast repo=ionelmc/python-process-tests sha=0899a04e
+[2026-11-21T23:18:31Z] [iter=1] Building AST aggregate chunks
+[2026-11-21T23:18:32Z] [iter=1] AST chunks built count=1 triples=20744
+[2026-11-21T23:18:32Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/0899a04e1abc37a13277c0def517c3ec93d03cd0/.complete
+[2026-11-21T23:18:32Z] [iter=1] PHASE END: ast elapsed_s=1 elapsed_min=0.0
+[2026-11-21T23:18:32Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
